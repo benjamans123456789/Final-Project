@@ -4,7 +4,8 @@ Team Name: Group 18
 Team Members and their corresponding contact info:
 Name:             
 Joseph Nguyen
-Moha
+Mohammed Baled
 
 Email:
-Mohammed Baled    mob82@pitt.edu
+jdn46@pitt.edu
+mob82@pitt.edu
