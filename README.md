@@ -5,18 +5,11 @@ Team Name: Group Eighteen
 Team Members and their corresponding contact info:
 Name:   
 
-Joseph Nguyen
+Joseph Nguyen: jdn46@pitt.edu
 
-Mohammed Baled
+Mohammed Baled: mob82@pitt.edu
 
-Ben Kasper
-
-Email:
-jdn46@pitt.edu
-
-mob82@pitt.edu
-
-brk105@pitt.edu
+Ben Kasper: brk105@pitt.edu
 
 
 Description and links to datasets used:
