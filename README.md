@@ -3,7 +3,6 @@
 Team Name: Group Eighteen
 
 Team Members and their corresponding contact info:
-
 Name:             
 Joseph Nguyen
 Mohammed Baled
