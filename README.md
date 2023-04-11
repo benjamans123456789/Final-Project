@@ -11,6 +11,8 @@ Mohammed Baled: mob82@pitt.edu
 
 Ben Kasper: brk105@pitt.edu
 
+John Haut: jjh128@pitt.edu
+
 
 Description and links to datasets used:
 
