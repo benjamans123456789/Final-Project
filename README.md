@@ -21,3 +21,9 @@ Mohammed Baled:
 Description: Employee Count for Neighborhoods in Pittsburgh. 
 
 Link to dataset: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/14abb000-d066-4728-8ffa-227883d6c331
+
+John Haut: 
+
+Description: K-12 Enrollment Rates for Neighborhoods in Pittsburgh. 
+
+Link to dataset: https://data.wprdc.org/dataset/pittsburgh-public-schools-individualized-education-plan-iep/resource/62403582-e6c3-40b6-9bb6-d5d38e3f058d
